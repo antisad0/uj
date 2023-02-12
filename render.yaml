@@ -1,9 +1,9 @@
 services:
   # A Docker web service
   - type: web
-    name: wzmlty
+    name: wzm988
     env: docker
-    region: Frankfurt
+    region: Oregon
     plan: free
     envVars:
       - key: PORT
